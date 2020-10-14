@@ -1,0 +1,7 @@
+discord
+flask
+dotenv
+pandas
+python-dotenv
+pyperclip
+jishaku
